@@ -21,6 +21,11 @@
         "responses": ["I am a chatbot", "My purpose is to assist you", "I can answer questions and provide assistance"]
     },
     {
+        "tag": "SS mesh",
+        "patterns": ["SS mosquito net 304G available"],
+        "responses": ["I am a chatbot", "My purpose is to assist you", "I can answer questions and provide assistance"]
+    },
+    {
         "tag": "help",
         "patterns": ["Help", "I need help", "Can you help me", "What should I do"],
         "responses": ["Sure, what do you need help with?", "I'm here to help. What's the problem?", "How can I assist you?"]
