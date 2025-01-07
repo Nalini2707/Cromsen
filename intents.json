@@ -723,8 +723,6 @@
         "patterns": ["What is partial differentiation?","What is partial differentiation?"],
         "responses": ["Partial differentiation is the process of finding the derivative of a multivariable function with respect to one variable while keeping the others constant."]
     },
-    
-          }
 ]
 }
 
