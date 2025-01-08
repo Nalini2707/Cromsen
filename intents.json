@@ -23,7 +23,7 @@
     {
         "tag": "Mosquito",
         "patterns": ["Mosquito Net need", "Mosquito Mesh Need", "Mosquito Net available"],
-        "responses": ["Yes Available", "Mosquito Net Black and White Available"]
+        "responses": ["Yes Available", "Cromsen Brand Mosquito Net Black and White Available"]
     },    
     {
         "tag": "help",
