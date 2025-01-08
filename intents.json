@@ -30,10 +30,15 @@
         "patterns": ["Mosquito Net need", "Mosquito Mesh Need", "Mosquito Net available"],
         "responses": ["304G and 316G Available", "Cromsen Brand Mosquito Net Black and White Available"]
     },
-     {
+    {
         "tag": "Aluminium",
         "patterns": ["Aluminium Mesh", "Aluminium Net", "Aluminium Mosquito Net", "Aluminium Mosquito Mesh"],
         "responses": ["Aluminium Mesh Available, 18x16 and 14x14 White, 3FT, 4FT, 5FT Available Further details call @98422 33645"]
+    },
+    {
+        "tag": "Fiber Mesh",
+        "patterns": ["Fiber Mesh", "Fiber Net", "Fiber Mosquito Mesh", "Fiber Mosquito Net"],
+        "responses": ["Fiber Glass Mosquito Net Black, Grey and Ivory Color Available, 18x16 3FT, 4FT, 5FT Available, Further details call @98422 33645"]
     },
     {
         "tag": "Thickness",
