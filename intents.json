@@ -45,6 +45,11 @@
         "patterns": ["Honeycomb Fabric", "Honeycomb Blockout", "Honeycomb Mesh", "Honeycomb Blinds"],
         "responses": ["Honeycomb 100% Blockout 16MM, 20MM & 25MM Available, Available Size 2.4Mtr & 3.0Mtr, More Colors Available, Further details call @98422 33645"]
     },
+     {
+        "tag": "Pleated",
+        "patterns": ["HPleated Net", "Honeycomb Blockout", "Honeycomb Mesh", "Honeycomb Blinds"],
+        "responses": ["Honeycomb 100% Blockout 16MM, 20MM & 25MM Available, Available Size 2.4Mtr & 3.0Mtr, More Colors Available, Further details call @98422 33645"]
+    },
     {
         "tag": "Thickness",
         "patterns": ["Available Size", "Available Thickness", "Mosquito Net available"],
