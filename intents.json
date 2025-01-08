@@ -26,12 +26,12 @@
         "responses": ["Yes Available", "Cromsen Brand Mosquito Net Black and White Available"]
     },
     {
-        "tag": "Mosquito",
+        "tag": "Need",
         "patterns": ["Mosquito Net need", "Mosquito Mesh Need", "Mosquito Net available"],
         "responses": ["304G and 316G Available", "Cromsen Brand Mosquito Net Black and White Available"]
     },
     {
-        "tag": "Mosquito",
+        "tag": "Thickness",
         "patterns": ["Available Size", "Available Thickness", "Mosquito Net available"],
         "responses": ["18x16 0.18 and 0.24 Black and 0.21 and 0.24 White Available", "3FT, 4FT, 5FT, 1MTR Available"]
     },
