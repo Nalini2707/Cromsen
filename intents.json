@@ -3,7 +3,7 @@
     {
         "tag": "greeting",
         "patterns": ["Hi", "Hello", "Hey", "How are you", "What's up"],
-        "responses": ["Welcome to Cromsen Importers", "How Can I Help You"]
+        "responses": ["Welcome to Cromsen Importers"]
     },
     {
         "tag": "goodbye",
