@@ -45,10 +45,15 @@
         "patterns": ["Honeycomb Fabric", "Honeycomb Blockout", "Honeycomb Mesh", "Honeycomb Blinds"],
         "responses": ["Honeycomb 100% Blockout 16MM, 20MM & 25MM Available, Available Size 2.4Mtr & 3.0Mtr, More Colors Available, Further details call @98422 33645"]
     },
-     {
+    {
         "tag": "Pleated",
         "patterns": ["Pleated Net", "Pleated Mosquito Net", "Pleated Mesh", "Pleated Mosquito Mesh", "Polyester Mesh", "Polyester Net", "Polyester Mosquito Net"],
         "responses": ["Pleated Mosquito Net, 18x16 16MM 20MM Available, Available Size 2.1Mtr, 2.4Mtr, 2.8Mtr & 3.0Mtr, More Colors and Designs Available, Further details call @98422 33645"]
+    },
+     {
+        "tag": "Pleated Net",
+        "patterns": ["प्लीटेड नेट", "Pleated Mosquito Net", "Pleated Mesh", "Pleated Mosquito Mesh", "Polyester Mesh", "Polyester Net", "Polyester Mosquito Net"],
+        "responses": ["प्लीटेड मच्छरदानी, 18x16 16MM 20MM उपलब्ध, उपलब्ध आकार 2.1Mtr, 2.4Mtr, 2.8Mtr और 3.0Mtr, अधिक रंग और डिज़ाइन उपलब्ध हैं, अधिक जानकारी के लिए कॉल करें @98422 33645"]
     },
     {
         "tag": "Thickness",
