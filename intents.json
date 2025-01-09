@@ -55,6 +55,11 @@
         "patterns": ["Pleated Net", "Pleated Mosquito Net", "Pleated Mesh", "Pleated Mosquito Mesh", "Polyester Mesh", "Polyester Net", "Polyester Mosquito Net"],
         "responses": ["Pleated Mosquito Net, 18x16 16MM 20MM Available, Available Size 2.1Mtr, 2.4Mtr, 2.8Mtr & 3.0Mtr, More Colors and Designs Available, Further details call @98422 33645"]
     },
+    {
+        "tag": "Upvc",
+        "patterns": ["Upvc Tools", "Upvc fitting tools"],
+        "responses": ["Internal Corner Cleaning, External Corner Cleaning, Surface Corner Cleaning, Water Slot Milling Machine 0,45,90 degrees, Heating Plate 150 & 180MM, Teflon Cloth, Thermocouples Available"]
+    },
      {
         "tag": "प्लीटेड नेट",
         "patterns": ["प्लीटेड नेट", "प्लीटेड मच्छरदानी", "प्लीटेड मेश", "प्लीटेड मच्छर जाल", "पॉलिएस्टर जाल", "पॉलिएस्टर नेट", "पॉलिएस्टर मच्छरदानी"],
