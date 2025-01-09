@@ -40,6 +40,16 @@
         "patterns": ["Fiber Mesh", "Fiber Net", "Fiber Mosquito Mesh", "Fiber Mosquito Net"],
         "responses": ["Fiber Glass Mosquito Net Black, Grey and Ivory Color Available, 18x16 3FT, 4FT, 5FT Available, Further details call @98422 33645"]
     },
+    #Adding an image with Base64 encoding
+    const fs = require('fs');
+    const imageBuffer = fs.readFileSync('D:\IT\Chatbot-main\Chatbot-main\images\fiber.PNG');
+    const base64Image = imageBuffer.toString('base64');
+    const JSON = {
+      name: 'Jenny william',
+      age: 21,
+      image: base64Image
+    };
+    db.student.insertOne(JSON);
     {
         "tag": "Honeycomb",
         "patterns": ["Honeycomb Fabric", "Honeycomb Blockout", "Honeycomb Mesh", "Honeycomb Blinds"],
